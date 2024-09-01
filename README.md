@@ -1,0 +1,2 @@
+# Tarot_LLM_LineBot
+塔羅抽牌與LLM結合的LineBot
